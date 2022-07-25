@@ -1,77 +1,107 @@
-# Introduccion a BOC
+# INTRODUCCIÓN A BOC
 
-## ¿Qué es BOC?
+## ¿QUÉ ES BOC?
 
-Bank of Chain (BOC) es una forma nueva e innovadora de interactuar con ecosistema de las [finanzas descentralizadas](more/appendix.md#finanzas-descentralizadas-defi) (DeFi). Es una plataforma indispensable que ayuda a los inversores ordinarios a obtener una herramienta de gestión de activos para generar ganancias "sin riesgo".
+Bank of Chain (BOC) es una forma nueva e innovadora de interactuar con ecosistemas [DeFi](./more/appendix#finanzas-descentralizadas-defi)(Finanzas Descentralizadas). Es una plataforma indispensable que ayuda a inversores ordinarios a obtener una herramienta de gestión de activos para obtener ganancias prácticamente “sin riesgo”.
 
-La plataforma BOC conecta [protocolos](more/appendix.md#protocolo) cuidadosamente seleccionados dentro del ecosistema criptográfico, incluidos los Automated Market Makers (AMMs), [protocolos de préstamo](more/appendix.md#protocolo-de-pr%C3%A9stamos), [agregadores de rendimiento](more/appendix.md#agregadores-de-rendimiento), etc. Consulte el [dashboard](https://dashboard.bankofchain.io/) para obtener más detalles.
+La plataforma BOC conecta [protocolos](./more/appendix#protocolo) cuidadosamente seleccionados dentro del ecosistema cripto, incluyendo [Automatic Market Makers] (AMMs), protocolos de préstamos, [agregadores de rendimientos](./more/appendix#agregadores-de-rendimiento), entre otras estrategias. Puede consultar el [dashboard](https://dashboard.bankofchain.io/#/) para más detalles.
 
-Al acceder a estrategias de protocolo de alta calidad, el BOC puede ser de 300 a 500 puntos básicos (3 a 5 %) más alto que otros fondos administrados en USD similares.
+Al acceder a [estrategias inteligentes](./more/appendix#estrategia) de protocolos de alta calidad, BOC provee 4%/5% más de APY que otras plataformas similares.
 
-Para los recién llegados a la industria de las criptomonedas, esta es la mejor manera de ingresar al ecosistema DeFi. Como protocolo de un solo clic, BOC traerá una nueva revolución a la industria DeFi, atrayendo cientos de millones de dólares de inversión.
+Para nuevos usuarios de la industria cripto, esta es la mejor forma de comenzar en el ecosistema DeFi. Como protocolo de un solo click, BOC traerá una nueva revolución a la industria DeFi, atrayendo miles de millones de dólares de inversión. 
 
-## BOC Fuente de interés (Yield)
+## BOC Fuente de rendimiento
 
-BOC es un protocolo DeFi que proporciona el mejor rendimiento "sin riesgo" a largo plazo, y su fuente de rendimiento incluye:
+BOC es un protocolo DeFi que provee la mejor inversión a largo plazo prácticamente “sin riesgo”. Dependiendo de la estrategia, el rendimiento proviene de:
 
-* La tarifa de transacción cobrada por proporcionar fondos para market makers de exchanges descentralizados (DEX).
-* El interés cobrado sobre fondos prestados en casos de préstamos sobrecolateralizados.
-* Recompensas de tokens de gobernanza.
+- La tasa de transacción que se cobra por proveer liquidez a market-makers de [exchanges descentralizados](./more/appendix#dex) (DEX).
+- El interés cobrado sobre fondos prestados en [préstamos sobre colateralizados](./more/appendix#prestamos-sobre-colaterizados).
+- Recompensas de [token de gobernanza](./more/appendix#token-de-gobernanza). 
 
 ## Reglas de asignación de fondos
 
-* La prioridad está en los fondos comunes de capital (liquidity pools) de mayor rendimiento.
-* El capital de inversión de un pool no puede exceder el 20% de los activos totales.
-* Los fondos de un pool no pueden exceder el 50% de del monto bloqueado existente en ese fondo.
-* Los fondos invertidos en un protocolo no pueden exceder el 30% de los activos de inversión totales.
-* Hay una evaluación automática regular para la revisión de ganancias. Con el objetivo de optimizar la asignación de fondos cuando las ganancias exceden al costo.
+- La prioridad de asignación la tienen los [pools de liquidez](./more/appendix#pool-de-liquidez) de alto rendimiento.
 
-## ¿Por qué existe BOC?
+- El capital invertido en un único fondo de liquidez no puede exceder el 20% del total de los activos administrados.
 
-Los protocolos DeFi existentes tienen los siguientes problemas:
+- El capital asignado a un único fondo de liquidez no puede exceder el 50% del monto bloqueado en ese fondo.
 
-* Hay casos de grandes pérdidas impermanentes (impermanent loss) en intercambios descentralizados de creación de mercado. En 2021, los ingresos de creación de mercado de UniswapV3 son solo de unos 200 millones de dólares, pero esos grupos sufrieron pérdidas impermanentes de 260 millones de dólares, lo que resultó en una pérdida neta total de 60 millones de dólares.
-* Es habitual que los agregadores de rendimiento (yield aggregators) sufran dependencias circulares.
-* Muchos protocolos tienen altos umbrales de inversión.
-* En general, los protocolos DeFi tienen múltiples opciones de inversión, y los usuarios necesitan un nivel de conocimiento relativamente más alto para elegir en qué protocolos subyacentes invertir. Al mismo tiempo, muchos de estos productos necesitan invertir en una variedad de monedas diferentes, y los usuarios necesitan convertir en la moneda requerida por el producto.
-* El proceso de inversión es complicado. En el proceso de reequilibrio de inversiones, los usuarios deben implementar operaciones complejas como retiro, cambio de moneda e inversión.
+- El total de capital invertido en diferentes fondos de liquidez de un mismo protocolo no puede exceder el 30% del total de activos administrados.
+
+- La colocación de activos se ajusta automáticamente con el objetivo de asignar de la manera más eficiente los fondos.
+
+Los protocolos DeFI existentes presentan los siguientes problemas:
+
+1. [Pérdida impermanente](./more/appendix#pérdida-impermanente) en los exchange descentralizados por creación de mercado. En 2021, los ingresos de creación de mercado de UniswapV3´s fueron de U$S200 millones pero dichos fondos de liquidez sufrieron [perdidas por U$S260 millones](https://cointelegraph.com/news/half-of-uniswap-v3-liquidity-providers-are-losing-money-new-research), obteniendo un resultado neto de U$S60 millones.
+
+2. [Dependencia circular](./more/appendix#dependencia-circular) para generar rendimientos.
+
+3. Umbrales de inversión elevados.
+
+4. Interfaz compleja para el usuario que requiere de gran experiencia de inversión en DeFi para saber en qué activo o protocolo subyacente invertir. 
+
+5. Muchas veces se requiere utilizar múltiples activos. Muchos productos necesitan invertir en una variedad de monedas diferentes y los usuarios necesitan convertir en la moneda requerida por el producto.
 
 ## ¿Qué hace que BOC sea diferente?
 
-BOC es una plataforma abierta que realiza inversiones descentralizadas al invertir en una combinación de protocolos DeFi cuidadosamente seleccionados, creando ingresos estables a largo plazo evitando la mayoría de los riesgos.
+BOC es el primer Banco Descentralizado en donde puedes depositar tus activos y automáticamente BOC, a través de contratos inteligentes, realizará inversiones en estrategias cuidadosamente seleccionadas en protocolos DeFi de alta calidad con el fin de generar ingresos estables en el largo plazo prácticamente “sin riesgo”.
 
 Las principales características que hacen de BOC un producto único son:
 
-La facilidad de uso:
+### *Es como un banco*
 
-1. Los usuarios depositarán y retirarán directamente sin pensar en implementar y asumir el costo de operaciones complejas como el farming, el intercambio y la reasignación. BOC hace la mejor selección para ellos.
-2. Las ganancias se reinvierten automáticamente con un proceso de depósito y retiro inmediato.
-3. Los rendimientos históricos y dinámicos son intuitivamente visibles.
+### Interfaz similar a un banco:
 
-La seguridad:
+- Los usuarios pueden depositar y retirar sus fondos sin necesidad de realizar operaciones complejas como farming, intercambio y relocalización. BOC realiza estas acciones por sus usuarios.
 
-1. La capitalización de mercado de las monedas estables calificadas supera los 1000 millones de dólares.
-2. El TVL de Blockchains calificados supera los 5 mil millones de dólares.
-3. Cuenta con auditoría de terceros.
-4. BOC no utiliza puentes entre cadenas de terceros no oficiales para las transacciones.
-5. La cotización del precio se basa en Chainlink, un oráculo líder en el mercado.
+- Los retornos históricos y dinámicos son mostrados de una manera intuitiva.
 
-Control de riesgo:
+### Servicio similar a un banco:
 
-1. Minimiza el riesgo de desanclaje de las monedas estables.
-2. Minimiza el riesgo de pérdida temporal, BOC utiliza la creación de mercado solo para pares de \[moneda estable] (apéndice # moneda estable).
-3. El riesgo sistémico está optimizado por los tokens envueltos muy selectivos y los agregadores de rendimiento.
-4. El riesgo de cola larga es realmente bajo, cualquier rendimiento se genera a partir del negocio de servicios de riesgo, como suscripción de seguros, opciones de compra de venta.
-5. No hay riesgo en el apalancamiento, se proporciona cualquier función de apalancamiento.
+- Herramienta de gestión de los activos sobre la blockchain.
 
-Algoritmo inteligente:
+- Préstamos (próximo a ser implementado).
 
-1. Los rendimientos se calibran regularmente, sopesando el costo y la recompensa por la reasignación de fondos.
-2. Realiza búsquedas continuas de la mejor tarifa a través de agregadores de cambio.
-3. BOC realiza un intercambio de intereses de FX, ajustando la síntesis de FX en función del tipo de cambio y el rendimiento.
-4. Los parámetros se establecen automáticamente para la creación de mercado y la estrategia de préstamo.
+### Utilización de tokens USDi & ETHi como si fueran depósitos bancarios:
 
-En resumen, la plataforma BOC es el catalizador faltante que revolucionará la industria generando una nueva forma de interactuar con el ecosistema DeFi, convirtiéndolo en un camino seguro para los recién llegados. Conduciendo a un nuevo crecimiento del mercado en comparación con otros productos similares en el mercado:
+- Liquidez garantizada.
+- Genera interés.
+- Totalmente respaldados.
+- Mantiene 1:1 la paridad de su valor.
+
+### Es mejor que otros protocolos DeFi:
+
+- Las estrategias utilizadas y movimientos de fondos son totalmente transparentes.
+- Provee un rendimiento sostenible.
+- BOC realiza la correspondiente investigación de las partes involucradas antes de trabajar con ellas.
+- Es fácil de usar.
+
+### La seguridad es una prioridad:
+
+1. La capitalización de mercado de las monedas estables seleccionadas debe exceder el valor de mil millones de dólares.
+2. El valor total bloqueado de las redes seleccionadas debe superar los cinco mil millones de dólares.
+3. Cuenta con auditorías de terceros.
+4. BOC no utiliza puentes de terceros no oficiales entre redes para las transacciones.
+5. La cotización del precio se basa en Chainlink, oráculo líder en el mercado.
+
+### Control de riesgos:
+
+1. Minimiza el riesgo de desanclaje de las [monedas estables](./more/appendix#stablecoin). 
+2. No existe riesgo de pérdida impermanente, ya que BOC solo utiliza pares de monedas estables. 
+3. El riesgo sistémico es optimizado por la adecuada selección de [tokens](./more/appendix#token) y agregadores de rendimientos.
+4. No utiliza monedas estables algorítmicas.
+5. No hay riesgo de apalancamiento.
+6. La dependencia circular es continuamente estudiada con el fin de ser evitada.
+
+### Algoritmo inteligente
+
+1. Los rendimientos son constantemente calibrados, ponderando el costo y la recompensa por la reasignación de los fondos.
+2. Constante búsqueda de la mejor tasa de interés.
+3. BOC realiza un intercambio de intereses de las monedas, ajustando la síntesis de las monedas en función del tipo de cambio y el rendimiento.
+4. Los paramentos se ajustan automáticamente para la estrategia de creación de mercado y de préstamos.
+
+
+En resumen, BOC es el catalizador que faltaba para revolucionar la industria generando un nueva forma de interactuar con el ecosistema DeFi, convirtiéndolo en un camino seguro para los recién llegados. Esto conducirá a un nuevo crecimiento del mercado en comparación con otros productos similares en el mercado:
 
 | Comparativa de producto| [BOC](https://bankofchain.io/)| [Yearn](http://yearn finance/)| [OUSD](https://www.ousd.com/)| [Aladdin DAO](https://aladdin.club/)| [enzyme](https://enzyme.finance/)| [farming](https://harvest.finance/)| [beefy](https://beefy.finance/)| [alpha](https://alphafinance.io/)| [yield app](https://www.yield.app/)|
 | ------------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |

@@ -36,6 +36,18 @@ Mientras que la prueba de trabajo recompensa a aquellos que han gastado la mayor
 
 Las organizaciones autónomas descentralizadas (Decentralized Autonomous Organization) puede definirse como una organización en una blockchain, representada por un conjunto de reglas codificadas en un programa informático en una blockchain, que es transparente, controlada por los miembros de la organización y no influenciada por un gobierno central.
 
+### DEX
+
+Los DEX son aplicaciones basadas en la red que permiten comprar y vender criptomonedas de manera descentralizada. Lo hacen completamente a través de algoritmos automatizados, en lugar del enfoque tradicional de actuar como intermediarios entre el comprador y el vendedor.
+
+### Prestamos sobre colaterizados
+
+La sobrecolaterizacion es una técnica para mejorar la posibilidad de obtener préstamos. El emisor del préstamos respalda el mismo con activos que tienen un valor superior al del préstamo. De esta forma se limita el riesgo para el acreedor y mejora la calificación crediticia asignada al préstamo
+
+### Dependencia circular
+
+Es la relacion entre dos o mas funciones que, directa o indirectamente, dependen unos del otro para actuar correctamente. En estrategias en el ecosistema DeFi esto ocurre cuando el “protocolo A” invierte en el “protocolo B” y, al mismo tiempo, el “protocolo B” invierte sobre el “protocolo A”, lo que supone un gran riesgo para la estabilidad del protocolo.
+
 ### Tesorería de las DAOs
 
 Las tesorerías ayudan a las DAO a financiar el desarrollo crítico, a atraer contribuyentes y a hacer crecer su red. Todo lo que pueda ser automatizado en una DAO debería serlo y todo lo que no pueda serlo, debería ser financiado por la tesorería. 
