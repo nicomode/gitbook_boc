@@ -6,7 +6,7 @@ Bank of Chain (BOC) es una forma nueva e innovadora de interactuar con ecosistem
 
 La plataforma BOC conecta [protocolos](./more/appendix#protocolo) cuidadosamente seleccionados dentro del ecosistema cripto, incluyendo [Automatic Market Makers] (AMMs), protocolos de préstamos, [agregadores de rendimientos](./more/appendix#agregadores-de-rendimiento), entre otras estrategias. Puede consultar el [dashboard](https://dashboard.bankofchain.io/#/) para más detalles.
 
-Al acceder a [estrategias inteligentes](./more/appendix#estrategia) de protocolos de alta calidad, BOC provee 4%/5% más de APY que otras plataformas similares.
+Al acceder a [estrategias inteligentes](./more/appendix#estrategia) de [protocolos](./more/appendix.md#protocolo) de alta calidad, BOC provee 4%/5% más de APY que otras plataformas similares.
 
 Para nuevos usuarios de la industria cripto, esta es la mejor forma de comenzar en el ecosistema DeFi. Como protocolo de un solo click, BOC traerá una nueva revolución a la industria DeFi, atrayendo miles de millones de dólares de inversión. 
 
